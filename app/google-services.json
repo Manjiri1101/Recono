@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665438614324",
+    "project_id": "recono-e2425",
+    "storage_bucket": "recono-e2425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665438614324:android:6cb6558f1cda914ebf6b61",
+        "android_client_info": {
+          "package_name": "com.example.recono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665438614324-4u70fsr898igd35mgk6jl8msis08qh8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recono",
+            "certificate_hash": "2e9057d0b5b2e6c4001c17d40df27fe823558b0b"
+          }
+        },
+        {
+          "client_id": "665438614324-sogve0lpkqsn3dktgh6lqfg81644epu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7C-cvq8_YElIO5H9TW5NuCF7k5mHUg8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665438614324-sogve0lpkqsn3dktgh6lqfg81644epu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
